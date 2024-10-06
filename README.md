@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Truong An</h1>
 <h3 align="center">A passionate Mobile developer from VietNam</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=leantruong&label=Profile%20views&color=0e75b6&style=flat" alt="leantruong" /> </p>
 
 - 🔭 I’m currently working on [beauty_app](https://github.com/leantruong/beauty_app)
 
